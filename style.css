@@ -1,0 +1,45 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+
+h3 {
+    background-color: #FFCCCB;
+    color: black;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    height: auto;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.food-pic {
+    display: block;
+    height: auto;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    background-color: #FFCCCB;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+}
+
