@@ -60,20 +60,38 @@ h1 {
 /* Other HTML Pages */
 
 h3 {
-    background-color: #FFCCCB;
+    /*background-color: #FFCCCB;*/
     color: black;
     text-align: center;
+
+    outline: 2px solid black;
+    width: 750px;
+    margin: 0 auto;
+    margin-top: 20px;
 }
 
 .food-pic {
     display: block;
     height: auto;
     width: 350px;
-    margin-left: auto;
-    margin-right: auto;
+
+    padding-top: 20px;
+    margin: 0 auto;
 }
 
 p {
     text-align: center;
+    width: 600px;
+
+    padding-top: 20px;
+    margin: 0 auto;
 }
+
+.ingredients,
+.steps {
+    margin: 0 auto;
+    width: 600px;
+    padding-top: 20px;
+}
+
 
